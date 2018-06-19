@@ -1,0 +1,3 @@
+Sitemap: http://sunriseivfgurgaon.com/sitemap.xml
+User-agent: *
+Disallow: /home.html/
